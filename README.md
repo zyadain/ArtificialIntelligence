@@ -91,6 +91,8 @@ Additional holidays:
 | --------- | ------------- |
 | Wed 11/11 | Armistice Day |
 | Fri 25/12 | Christmas Day |
+| Wed 30/12 | BeCode Closed |
+| Thu 31/12 | BeCode Closed |
 | Fri 01/01 | New Year's Day |
 
 
