@@ -43,6 +43,7 @@ Read the following documents:
 Your coaches at BeCode:
 
 **Xavier RONVEAUX - xavier@becode.org**
+
 **Maxim BERGE - maxim.berge@becode.org**
 
 Your administrative contact at BeCode :
