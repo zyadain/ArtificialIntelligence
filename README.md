@@ -70,18 +70,14 @@ To keep up to date with the upcoming events, workshops and hackatons remember to
 
 ## Vacation and holidays
 
-There are 2 vacation blocks of one week:
-
-👇
+There are 2 vacation blocks of one week: 👇
 
 | Dates                        | What are we doin'? |
 | ---------------------------- | ------------------ |
 | November 2nd -> November 6th     | Planned vacation   |
 | January 18th -> January 22nd | Planned vacation   |
 
-Additional holidays:
-
-👇 (see: https://publicholidays.be/2020-dates/ and ask your HOC)
+Additional holidays: 👇 
 
 | Date      | What          |
 | --------- | ------------- |
