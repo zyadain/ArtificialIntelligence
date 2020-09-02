@@ -72,7 +72,7 @@ To keep up to date with the upcoming events, workshops and hackatons remember to
 
 There are 2 vacation blocks of one week:
 
-{UPDATE_ACCORDINGLY 👇}
+👇
 
 | Dates                        | What are we doin'? |
 | ---------------------------- | ------------------ |
@@ -81,7 +81,7 @@ There are 2 vacation blocks of one week:
 
 Additional holidays:
 
-{UPDATE_ACCORDINGLY 👇 (see: https://publicholidays.be/2020-dates/ and ask your HOC) }
+👇 (see: https://publicholidays.be/2020-dates/ and ask your HOC)
 
 | Date      | What          |
 | --------- | ------------- |
