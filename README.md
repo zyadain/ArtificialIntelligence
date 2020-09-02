@@ -94,12 +94,12 @@ Additional holidays:
 
 List of minimal requirements for the trainees:
 
-- junior development skills (in any programming language)
-- basic math & statistics knowledge 
-- fundamental computer know-how (interested in tech, tech savvy)
-- problem solver mindset
-- motivated
-- self-learner
+- Junior development skills (in any programming language)
+- Basic math & statistics knowledge 
+- Fundamental computer know-how (interested in tech, tech savvy)
+- Problem solver mindset
+- Motivated
+- Self-learner
 
 ## Course content
 
