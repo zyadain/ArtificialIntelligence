@@ -42,12 +42,12 @@ Read the following documents:
 
 Your coaches at BeCode:
 
-1. Xavier RONVEAUX - xavier@becode.org
-2. Maxim BERGE - maxim.berge@becode.org
+- Xavier RONVEAUX - xavier@becode.org
+- Maxim BERGE - maxim.berge@becode.org
 
 Your administrative contact at BeCode :
 
-1. Eric Salla - eric@becode.org
+- Eric SALLA - eric@becode.org
 
 ## Respect for planning: being late & absence
 
