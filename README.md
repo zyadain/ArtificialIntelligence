@@ -17,7 +17,7 @@ Note: The ultimate goal is the mindset, not specific tools. For that reason the 
 
 | Field |  |
 |---|---|
-| [Tools](https://github.com/becodeorg/ATW-Theano-1-21/tree/master/00.Tools)| Introduction to the fundamentals of the command line interface (Unix/Linux) such as navigation, file operation, permissions, package management, text edition, pipes, FIFO, redirections, environment variables and versioning tools like git.|
+| [Tools](https://github.com/becodeorg/ATW-Theano-1-21/tree/master/Content/00.Tools)| Introduction to the fundamentals of the command line interface (Unix/Linux) such as navigation, file operation, permissions, package management, text edition, pipes, FIFO, redirections, environment variables and versioning tools like git.|
 | Python | Introduction to the language fundamentals in order to be able to execute simple taskes. Understanding the OOP principles and the processes that are required to work with all kinds of files that contain data. |
 
 | Hill |  |
