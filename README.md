@@ -89,11 +89,11 @@ Additional holidays:
 
 | Date      | What          |
 | --------- | ------------- |
-| Wed 11/11 | Armistice Day |
-| Fri 25/12 | Christmas Day |
-| Wed 30/12 | BeCode Closed |
-| Thu 31/12 | BeCode Closed |
-| Fri 01/01 | New Year's Day |
+| Wed 11/11/20 | Armistice Day |
+| Fri 25/12/20 | Christmas Day |
+| Wed 30/12/20 | BeCode is officially closed |
+| Thu 31/12/20 | BeCode is officially closed |
+| Fri 01/01/21 | New Year's Day |
 
 
 ## Requirements
