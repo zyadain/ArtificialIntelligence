@@ -10,7 +10,7 @@ Note: The ultimate goal is the mindset, not specific tools. For that reason the 
 
 | Content | Description |
 |---|---|
-| [Tech Talks](https://github.com/becodeorg/The-Watch/tree/master/BXL-Bouman-2.22)| Small daily talks organised by the learners or coaches on theoretical concepts, interesting related tech, cool findings, etc… |
+| [The Watch](https://github.com/becodeorg/The-Watch/tree/master/BXL-Bouman-2.22)| Small daily talks organised by the learners or coaches on theoretical concepts, interesting related tech, cool findings, etc… |
 | Workshops| Interactive session given by the trainees on subject they want to teach their colleagues. |
 | Red Line | A growing project during the whole training where the team role-play as a startup facing growing AI problems (consolidation challenges). |
 | Case Study |Study of real life cases of AI , well known hacks and advices from professionals.|
