@@ -55,7 +55,10 @@ You must save everything in a csv file.
 2. Pimp up the readme file:
 	- What, Why, When, How, Who.
 	- Pending things to do
-3. Small presentation
+3. Small presentation :
+	- How we did ?
+	- Who did what ?
+	- What went wrong ?
 
 ### Steps
 1. Create the repository
