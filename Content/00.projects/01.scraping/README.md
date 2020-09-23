@@ -56,9 +56,10 @@ You must save everything in a csv file.
 	- What, Why, When, How, Who.
 	- Pending things to do
 3. Small presentation :
-	- How we did ?
+	- How you did it ?
 	- Who did what ?
 	- What went wrong ?
+	- How you solved it ?
 
 ### Steps
 1. Create the repository
