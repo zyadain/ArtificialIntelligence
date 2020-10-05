@@ -53,7 +53,7 @@ Here is a LIDAR segmentation :
 
 With those points clouds we can easily identify houses, vegetation, roads, etc...
 
-The results we're insterressed in are DSM (Digital Surface Map) and DTM (Digital Terrain Map).
+The results we're insterested in are DSM (Digital Surface Map) and DTM (Digital Terrain Map).
 
 Which are already computed and available here :
 
