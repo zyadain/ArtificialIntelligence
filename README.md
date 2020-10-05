@@ -22,7 +22,7 @@ Note: The ultimate goal is the mindset, not specific tools. For that reason the 
 
 | Hill |  |
 |---|---|
-| Libraries | Get familiar with all the necessary libraries such as NumPy, Pandas and matplotlib so the preprocessing of data can be done with a quick and "clean" way.|
+| [Libraries](https://github.com/becodeorg/BXL-Bouman-2.22/tree/master/content/03.ai_tools) | Get familiar with all the necessary libraries such as NumPy, Pandas and matplotlib so the preprocessing of data can be done with a quick and "clean" way.|
 | Big Data libraries| Work with more specific libraries that are design to handle bigger and more complicated datasets.|
 | Deployement | How to deploy properly your application for the public using containers, API, different types of Database as well as Web Services.
 
