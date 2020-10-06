@@ -1,6 +1,6 @@
 # Card Hangman
 
-![Puzzle time!](https://apps.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)
+![Puzzle time!](https://tenor.com/view/wheel-of-fortune-wheel-puzzle-puzzle-board-pat-sajak-gif-18327621)
 
 ## Description
 You will need to create a hangman game in python. (in the terminal)
