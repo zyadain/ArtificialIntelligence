@@ -9,8 +9,8 @@ You will need to create a hangman game in python. (in the terminal)
 
 ### Hangman
 Create a `Hangman` class containing:
-- A `possible_words` property that contain a list of string. Each element is a word that could be selected to be the `word_to_find`. It has to contain at least those words: `['['becode', 'learning', 'mathematics', 'sessions']`.
-- A `word_to_fine` property that contain a list of string. Each element will be a letter of the word.
+- A `possible_words` property that contain a list of string. Each element is a word that could be selected to be the `word_to_find`. It has to contain at least those words: `['becode', 'learning', 'mathematics', 'sessions']`.
+- A `word_to_find` property that contain a list of string. Each element will be a letter of the word.
 - A `life` propertu that contain the life that the player still has. It should start at 5.
 - A `well_guessed_letters` property that contain a list of string where each element will be a letter guessed by the user. It should start equel to: `_ _ _ _ _` with the same number of `_` as the lenght of the word. Each time the user found a letter, replace the `_` with the letter. If the word contain multiple time the same letter, it should put those letters at each place that should contain it. For example if the first guess of the user is `P` and the good word is `P A P E R` then `well_guessed_letters` should be equal to ` P _ P _ _`.
 
