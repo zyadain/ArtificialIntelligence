@@ -10,7 +10,7 @@ You will need to create a card game in python.
 ### Cards
 Create a `Card` class containing:
 - A `color`  -> `string`
-- A `number` -> `int`
+- A `number` -> `int or string`
 - A `symbol` -> `string`
 Symbols are: `[♥, ♦, ♣, ♠]`
 
